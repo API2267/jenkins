@@ -14,4 +14,5 @@ class Palindrome{
   else    
    System.out.println("not palindrome");    
 }  
+//added line 1
 }  
